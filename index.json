@@ -1,0 +1,11 @@
+{
+  "org": "scikit-multilearn",
+  "repo": "scikit-multilearn",
+  "versions": [
+    {
+      "commit": "2ea8c414d6e11ab2b5b5d03cceb3f56ce8fe4215",
+      "tag": "",
+      "parsed_at": "2026-10-17T02:40:01.745560+00:00"
+    }
+  ]
+}
