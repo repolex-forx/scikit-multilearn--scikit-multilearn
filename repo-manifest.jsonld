@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-multilearn/scikit-multilearn/commit/2ea8c414d6e11ab2b5b5d03cceb3f56ce8fe4215",
       "git:hexsha": "2ea8c414d6e11ab2b5b5d03cceb3f56ce8fe4215",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-multilearn/scikit-multilearn/commit/c4b10964c936e0d24a974e14f70ab949f65c453e",
